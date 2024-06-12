@@ -364,6 +364,32 @@ nav {
   color: rgba(120, 120, 120, 1);
   padding: 10px 0;
 }
+.dark .aside_three {
+  background-color: black;
+}
+.dark body {
+  background-color: black;
+}
+.dark .aside_two {
+  -webkit-filter: grayscale(40%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(90%);
+}
+.dark .aside_three {
+  -webkit-filter: grayscale(40%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(90%);
+}
+.dark .container {
+  -webkit-filter: grayscale(40%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(90%);
+}
+.dark .foto_words_bg {
+  -webkit-filter: grayscale(40%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(90%);
+}
+.dark .aside_two {
+  -webkit-filter: grayscale(40%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(90%);
+}
 @media (max-width: 1212px) {
   .four_development {
     display: flex;
