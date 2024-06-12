@@ -370,9 +370,8 @@ nav {
 .dark body {
   background-color: black;
 }
-.dark .aside_two {
-  -webkit-filter: grayscale(40%); /* Safari 6.0 - 9.0 */
-  filter: grayscale(90%);
+.dark .aside_three_element {
+  color: aliceblue;
 }
 .dark .aside_three {
   -webkit-filter: grayscale(40%); /* Safari 6.0 - 9.0 */
